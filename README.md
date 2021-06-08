@@ -10,4 +10,4 @@
 
 ## Installation
 
-Download workflow [here](https://github.com/Cool-Runningz/alfred-word-count/blob/main/alfred-word-count.alfredworkflow).
+Download workflow [here](https://github.com/Cool-Runningz/alfred-word-count/blob/main/word-count.alfredworkflow).
