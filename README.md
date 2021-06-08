@@ -1,7 +1,5 @@
 # Word Counter for Alfred
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
 **alfred-word-count is a simple workflow that takes in a block of text and calculates the total number of words.**
 
 ## Demo
