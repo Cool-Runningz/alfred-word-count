@@ -4,7 +4,7 @@
 
 ## Demo
 
-![demo](wc-demo.gif)
+![demo](wc-demo.png)
 
 ## Installation
 
